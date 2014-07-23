@@ -10,7 +10,6 @@ namespace FGWEB
     using BLL;
     public partial class Test : System.Web.UI.Page
     {
-        //哥加了一些文字
         protected void Page_Load(object sender, EventArgs e)
         {
 
